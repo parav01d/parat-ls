@@ -21,5 +21,6 @@ done < "$1"
 echo "${bold}${cat_footer}"
 echo "${bold}${cats[$RANDOM % 2]}"
 echo "${normal}"
-eval "afplay ${PWD}/${cat_sounds[$RANDOM % 2]}"
+path="$(echo $0 | rev | cut -c 8- | rev | tr -d '\n')"
+afplay ${path}/${cat_sounds[$RANDOM % 2]}
 
