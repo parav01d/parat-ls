@@ -1,0 +1,169 @@
+ - - - - — - - Tom Kunzemann - - - - — - -
+
+- - - TAO - - -
+
+After three days without programming, life becomes meaningless.
+
+- - - Skills - - -
+
+Clean Code / Basics
+Patterns of Enterprise Application Architecture, Test Driven Development, Behaviour Driven Development, API Design, Git
+
+Testing
+Unit-Testing, Integration/E2E-Testing, Performance-Testing
+
+Architecture
+Domain Driven Design, Clean Architecture, Event Driven Architecture, Microservice Architecture, CQRS, Flux Architecture, C4 Model and IcePanel
+
+Frontend-Development
+React, Redux(-Observables), RxJS, Composition, Sass(-Modules), Webpack, Jest, AVA, Cypress, Storybook, Chromatic, Atomic-Design, Styled Components, Tailwind CSS
+
+Backend-Development
+Node.js, Express, Sails, Laravel, Lumen, Composer, Docker(-Compose), Mocha, Sinon, Chai, Swagger, Gatling IO, Protocol Buffers, Azure, ASP.NET Core
+
+App-Development
+React Native, Expo, Storybook, Chromatic
+
+Databases
+TypeORM, MySQL, Postgres, Realm, Entity Framework, Indexing and Performance Optimizations
+
+Languages
+C#, Node.js, Javascript, Typescript, PHP, Bash
+
+Team & Agile Collaborations
+Collaboration, Communication, Agile Development Practices, Scrum, Kanban, Context Swarming 
+
+
+ .:::.   .:::.
+:::::::.:::::::
+:::::LOVE::::::
+':::::::::::::'
+':::::::::'
+':::::'
+':'
+- - - Work History - - -
+
+2022 - 2023 Software-Architekt
+
+As technical lead, I took responsibility for documentation, processes and development within the IT department. Since we started from scratch in this project, requirements, specifications and implementations were described for the documentation in Confluence and necessary documents for project management were created. In Jira we mapped the processes and worked according to standardized procedure models. For the actual project, we opted for an infrastructure in AWS, because in addition to backend, frontend and databases, highly scalable process pipelines had to be created for the bio-informatics requirements. Together with the stakeholders, we came up with a runnable prototype within a few months and were thus able to formulate a product with the insights gained. For this we created a mockup, defined target groups and jointly determined a payment model. The implementation on the technical side was done by the best backend developer in the world and me. 
+
+Initialization of documentation, process model and project management using Jira, Confluence and Bitbucket
+Requirements engineering by gathering requirements and creating specifications
+Product development and prototyping for previously defined user groups
+Design and implementation of frontend application(s) based on mockups and a defined design system in the form of a storybook
+Design of the backend software architecture and appropriate testing strategy
+Collaboration with bio-informaticians to implement complex processes in a highly scalable AWS environment.
+
+2020 - 2022 Software-Architekt
+
+The company looked for someone who starts with requirements engineering and initialize CON.8 conform structures for software craftsmanship. After establishing agile software development processes and train stakeholders in how to use Jira and Confluence efficiently, We began to form an interdisciplinary Team out of individuals of each department. Finally I designed a scaleable software architecture for the entire company with main focus on one big project (Building Information Modelling). Everything was documented in C4 Model and was entirely implemented by the team together with me. 
+
+established and documented CON.8 conform development process
+trained stakeholder in agile software development and agile requirement engineering techniques
+designed a micro service infrastructure with clean architecture concepts in C4 Model to work with domain driven design together with all the different departments of T&C
+trained the frontend developers in react, atomic design, storybook and chromatic 
+trained the backend developers in clean architecture and ASP.NET Core
+used Artifactory to store all artefacts and docker images to make the whole infrastructure ready to orchestrate
+2018 - 2020 Software Architect at SMARTPLATZ GmbH
+
+I was recommended by a friend and got my first chance as a software architect for a startup project. We created an application to support the local retail in digitalisation purposes. I introduced domain driven design to the team and helped them in modelling their business structure. Because the team was not very experienced, I laid the foundations for project management and collaboration.
+
+initialised the backend infrastructure (Express, Postgres, Docker, RabbitMQ) and architecture using domain driven design and clean architecture 
+wrote the first version of the Smartplatz app with react native and the second version with expo
+created a concept for in app user interest tracking based on their interactions
+still using RxJS everywhere, for sure it’s the future
+
+2017-2018 Frontend Developer at InVision AG
+
+After quitting my job at the Nextbike GmbH, I looked for new challenges and started to work at the InVision AG Leipzig as a frontend developer. It was a roller coaster ride through brand new frontend technologies and unconventional company structures. 
+
+• wrote an high sophisticated application with react, redux-(observables), webpack and typescript 
+• introduce new developers in the architecture and design of conceptual closed fronend applications
+started to love RxJS and pipeline all the things
+created a test strategy with 100% unit test coverage and cypress.io integration tests - without pain
+• still not loving css (sass modules) but we are friends now
+
+2015 - 2017 Full-Stack Developer Nextbike GmbH
+
+With my bachelor of science degree I start to work at Nextbike GmbH to gain experience in agile development practices and working in bigger teams. I shared my experience and learned a new pragmatic work style. 
+
+• started to introduce the current developer team to object oriented programming and clean code guidelines
+• improved the performance of the mysql database on the server side and revised existing queries by indexing
+• wrote a new webview for the existing app with AngularJS and implemented a bridge to communicate with native components https://webview.nextbike.net  
+• design and implement a primitive CI progress via GIT merge hooks and some bash/php scripts
+• build a template editor ( CMS ) to create custom webpages like www.nextbike.de  or www.nextbike.at 
+• started to write a new native iOS application to improve the performance and user experience ( Viper Architecture with Rx )
+• created a payload based rendering backend for websites in Node.js 
+2014 - 2015 Backend Developer PHP (Freelancer) at Zenubu GbR
+
+Technical Stack of Zenubu GbR was AngularJS with some building tools on the frontend and Silex with a huge part of self written framework in domain driven design on a backend. There was the perfect requirements to improve my skill set and be an effective part of the team. 
+
+• created high quality test cases for unit, integration, e2e and behavior testing
+• wrote a file template generation tool to speed up the development progress for new components
+• implemented business logic and helped to improve the self written framework https://github.com/palya-framework/palya 
+
+2012 - 2014 Junior Backend / Frontend Developer (Freelancer) at Cityfield IT Soloutions GmbH
+
+During my studies I started to work at Cityfield IT Soloutions as a junior backend and frontend developer. In a small team with 5 members we wrote a travel application with an enormous part of business logic and intelligence. I learned how to write testable, stable and readable PHP source code. In addition I learned how to test php source code with unit, behaviour and integration tests to ensure the correct functionality and to make it easy for future developer to learn how everything works. Finally I wrote an office application with AngularJS to use the created backend. 
+
+• created specific software and devised testing scenarios to ensure optimum levels of efficiency and functionality
+• created a frontend application with modern technologies to make a huge amount of data easy to use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - Education - - -
+
+
+2009 - 2015 Bachelor of Science (2.3) at HTWK Leipzig
+
+Bachelor Thesis: Performance testing of web applications in PHP, NodeJs and Scala (1.3)
+
+2008 - 2009 Technical Assistant For Computer Science (1.5) at Johann-Friedrich-Pierer School
+
+Network Technology and System Programming
+
+2005 - 2008 General Qualification For University Entrance (2.3) at Johann-Friedrich-Pierer School
+
+Data Processing and Information Technology 
+
+
+
+
+
+
+- - - About Me - - -
+
+Seven years ago, I started trying to be the best at programming. I read all the books and coded the hell out of me only to understand in the end: 
+
+	There is no constructor or instance of master programmer.
+
+Only a team of highly skilled individuals with strong collaboration intends is able to create good software. So I became a strong part of several companies, we wrote a lot of beautiful code and made nice concepts to establish business models. But yeah like every other super hero there is another side of the medal, I cannot be the all time coding monkey because most importantly I am a human, with a little family and a lot of hobbies. I play magic cards, fly freestyle drones, go bouldering and at last but not least I spend a lot time with my girlfriend and my son. My favourite colours are green, orange and sometimes violett (Have you ever seen a lavender field? It looks so beautiful). 
+
+
+
+.:::.   .:::.
+:::::::.:::::::
+::Programming:::
+ ':::::::::::::'
+':::::::::'
+':::::'
+‘:
